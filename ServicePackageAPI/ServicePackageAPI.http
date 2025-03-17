@@ -1,0 +1,6 @@
+@ServicePackageAPI_HostAddress = http://localhost:5274
+
+GET {{ServicePackageAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@WasherApi_HostAddress = http://localhost:5062
+
+GET {{WasherApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
